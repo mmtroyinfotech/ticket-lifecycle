@@ -33,7 +33,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://imgur.com/n5GHMIT.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The Agent Panel allows agents to:
+
+- View Assigned Tickets: See all the customer queries or issues (tickets) they need to handle.
+- Update Ticket Status: Change the status of a ticket as they work on it, such as "In Progress," "Resolved," or "Closed."
+- Manage Responses: Communicate with customers directly through the panel to resolve their issues.
+- Track Progress: Monitor the progress and status of all assigned tickets to ensure timely resolution.
+
+This feature helps agents stay organized and ensures that all customer issues are addressed efficiently.
 </p>
 <br />
 
